@@ -48,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="LICENSE.md" />
+    <Content Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="README.txt" />
